@@ -6,7 +6,7 @@ var recognition = new SpeechRecognition();
 var Textbox;
 
 
-//Makes recording ongoing
+//Makes recording ongoing 
 recognition.continuous = true;
 
 //Takes what is said into mic to be dictated onto textbox
